@@ -1,0 +1,39 @@
+# genetated time: 2024-03-04 14:57:08.034340
+# chip: bm1684x  mix_mode: F16
+# number of F16 layer: 19
+###
+# op_name   quantize_mode
+/f/f.3/f.3.2/relu_1/Relu_output_0_Relu F16
+/f/f.2/Relu_output_0_Relu F16
+/f/f.3/f.3.0/downsample/downsample.0/Conv_output_0_Conv F16
+/f/f.3/f.3.1/relu_1/Relu_output_0_Relu F16
+/f/f.3/f.3.0/relu_2/Relu_output_0_Relu F16
+/f/f.3/f.3.1/relu/Relu_output_0_Relu F16
+/f/f.3/f.3.2/relu_2/Relu_output_0_Relu F16
+/f/f.4/f.4.0/downsample/downsample.0/Conv_output_0_Conv F16
+/f/f.3/f.3.2/relu/Relu_output_0_Relu F16
+/f/f.3/f.3.0/relu/Relu_output_0_Relu F16
+/f/f.3/f.3.1/relu_2/Relu_output_0_Relu F16
+/f/f.3/f.3.0/conv3/Conv_output_0_Conv F16
+/f/f.3/f.3.0/relu_1/Relu_output_0_Relu F16
+/f/f.3/f.3.1/conv3/Conv_output_0_Conv F16
+/f/f.3/f.3.2/conv3/Conv_output_0_Conv F16
+/f/f.6/f.6.0/relu/Relu_output_0_Relu F16
+/f/f.6/f.6.2/relu_2/Relu_output_0_Relu F16
+/f/f.6/f.6.2/conv3/Conv_output_0_Conv F16
+/f/f.5/f.5.5/conv3/Conv_output_0_Conv F16
+494_Gemm F16
+/f/f.7/GlobalAveragePool_output_0_GlobalAveragePool F16
+/f/f.6/f.6.1/relu_1/Relu_output_0_Relu F16
+/f/f.6/f.6.1/conv3/Conv_output_0_Conv F16
+/f/f.6/f.6.0/downsample/downsample.0/Conv_output_0_Conv F16
+/Flatten_output_0_Flatten F16
+/f/f.6/f.6.1/relu_2/Relu_output_0_Relu F16
+/f/f.6/f.6.0/conv3/Conv_output_0_Conv F16
+/f/f.6/f.6.0/relu_2/Relu_output_0_Relu F16
+/f/f.6/f.6.0/relu_1/Relu_output_0_Relu F16
+/f/f.5/f.5.5/relu_1/Relu_output_0_Relu F16
+/f/f.6/f.6.1/relu/Relu_output_0_Relu F16
+/f/f.6/f.6.2/relu/Relu_output_0_Relu F16
+/f/f.6/f.6.2/relu_1/Relu_output_0_Relu F16
+/f/f.5/f.5.5/relu_2/Relu_output_0_Relu F16
